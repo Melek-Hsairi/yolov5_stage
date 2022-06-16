@@ -1,0 +1,5 @@
+train: custom_dataset/train
+val: custom_dataset/valid
+
+nc: 3
+names: ['d_female', 'd_male', 'dacus']

@@ -1,0 +1,7 @@
+names:
+- d_female
+- d_male
+- dacus
+nc: 3
+train: wandb-artifact://custom_yolov5\train
+val: wandb-artifact://custom_yolov5\val
